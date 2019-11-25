@@ -658,7 +658,7 @@ namespace Photon.Pun
             {
                 if (!EditorApplication.isUpdating)
                 {
-                    Debug.LogError("Could not load PhotonServerSettings to update RPCs.");
+
                 }
                 return;
             }
